@@ -1,0 +1,5 @@
+postgresql
+python3
+pgcrypto
+psycopg2
+pandas
